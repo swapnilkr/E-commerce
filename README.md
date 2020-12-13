@@ -1,0 +1,2 @@
+# E-commerce
+Designed a responsive website with basic pages/features which are necessary for an e-commerce website . Using HTML5 , CSS and basics of JavaScript . The website included a main/home page linked with other 9 pages/features which are generally seen in an e-commerce website , like Products page , Category option , Cart store , Checkout gateway , Order confirmation page , About us page , Search for product page and last Contact us . 
